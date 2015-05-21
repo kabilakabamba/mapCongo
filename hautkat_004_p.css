@@ -1,0 +1,158 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+div#e16             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 116.25pt;
+	width           : 675.00pt;
+	height          : 431.25pt;
+	}
+div#e15             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  86.25pt;
+	width           : 675.00pt;
+	height          :  26.25pt;
+	}
+h5#e14              { /* VILLE DE KIPUSHI */
+	font            : 14pt 'twister';
+	text-decoration : underline;
+	color           : #008080;
+	text-align      : center;
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 118.50pt;
+	width           : 185.25pt;
+	height          :  20.25pt;
+	}
+div#e13             { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	font            : 11pt 'Rockwell';
+	text-align      : left;
+	position        : absolute;
+	left            :   9.00pt;
+	top             : 152.25pt;
+	width           : 390.00pt;
+	height          : 168.75pt;
+	}
+div#e12             { /* \ \&nbsp;&nbsp;&nbsp;&nb... */
+	font            : 11pt 'Rockwell';
+	text-align      : left;
+	position        : absolute;
+	left            :   8.25pt;
+	top             : 300.00pt;
+	width           : 659.25pt;
+	height          : 258.75pt;
+	}
+img#e11             { /* images/hautkat004002.jpg */
+	position        : absolute;
+	left            : 408.75pt;
+	top             : 168.00pt;
+	width           : 256.50pt;
+	height          : 151.50pt;
+	}
+div#e10             { /* HAUT KATANGA\ */
+	background      : transparent url(images/hautkat004001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 117.00pt;
+	top             :  13.50pt;
+	width           : 435.75pt;
+	height          :  57.75pt;
+	}
+div#e9              { /* Acceuil */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  26.25pt;
+	top             :  86.25pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e8              { /* Site Touristiques */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 179.25pt;
+	top             :  93.00pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e7              { /* Images */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 357.00pt;
+	top             :  93.75pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e6              { /* Historique */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 550.50pt;
+	top             :  91.50pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e5              { /* | */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 162.00pt;
+	top             :  88.50pt;
+	width           :   4.50pt;
+	height          :  18.00pt;
+	}
+div#e4              { /* | */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 316.50pt;
+	top             :  87.75pt;
+	width           :   4.50pt;
+	height          :  18.00pt;
+	}
+div#e3              { /* | */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 501.75pt;
+	top             :  89.25pt;
+	width           :   4.50pt;
+	height          :  18.00pt;
+	}
+h6#e2               { /* Copyright (destin&cedric... */
+	font            : italic 12pt 'Silent Hell of Cheryl';
+	text-decoration : underline;
+	color           : #ffffff;
+	text-align      : center;
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 558.00pt;
+	width           : 622.50pt;
+	height          :  12.75pt;
+	}
+h5#e1               { /* CONCEPTEURS \ \Ir. CEDRI... */
+	font            : 14pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	color           : #008000;
+	text-align      : center;
+	position        : absolute;
+	left            : 405.00pt;
+	top             : 129.75pt;
+	width           : 250.50pt;
+	height          :  36.75pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 675.00pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #001b35;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

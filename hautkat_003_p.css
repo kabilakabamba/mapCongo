@@ -1,0 +1,178 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+div#e19             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 116.25pt;
+	width           : 675.00pt;
+	height          : 429.75pt;
+	}
+div#e18             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  86.25pt;
+	width           : 675.00pt;
+	height          :  26.25pt;
+	}
+h5#e17              { /* les grandes imges de la ... */
+	font            : bold 20pt 'Nervous';
+	text-decoration : underline;
+	text-align      : center;
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 127.50pt;
+	width           : 352.50pt;
+	height          :  29.25pt;
+	}
+div#e16             { /* HAUT KATANGA\ */
+	background      : transparent url(images/hautkat003008.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 117.00pt;
+	top             :  15.00pt;
+	width           : 435.75pt;
+	height          :  57.75pt;
+	}
+div#e15             { /* Acceuil */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  26.25pt;
+	top             :  86.25pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e14             { /* Sites tourristiques */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 179.25pt;
+	top             :  93.00pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e13             { /* Images */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 357.00pt;
+	top             :  93.75pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e12             { /* Historique */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 550.50pt;
+	top             :  91.50pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e11             { /* | */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 162.00pt;
+	top             :  88.50pt;
+	width           :   4.50pt;
+	height          :  18.00pt;
+	}
+div#e10             { /* | */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 316.50pt;
+	top             :  87.75pt;
+	width           :   4.50pt;
+	height          :  18.00pt;
+	}
+div#e9              { /* | */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 501.75pt;
+	top             :  89.25pt;
+	width           :   4.50pt;
+	height          :  18.00pt;
+	}
+h6#e8               { /* Copyright (destin&cedric... */
+	font            : italic 12pt 'Silent Hell of Cheryl';
+	text-decoration : underline;
+	color           : #ffffff;
+	text-align      : center;
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 558.00pt;
+	width           : 622.50pt;
+	height          :  12.75pt;
+	}
+span#e7             { /* images/hautkat003007.jpg */
+	background      : transparent url(images/hautkat003007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 170.25pt;
+	width           : 210.75pt;
+	height          : 140.25pt;
+	}
+span#e6             { /* images/hautkat003006.jpg */
+	background      : transparent url(images/hautkat003006.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 230.25pt;
+	top             : 162.00pt;
+	width           : 232.50pt;
+	height          : 376.50pt;
+	}
+span#e5             { /* images/hautkat003005.jpg */
+	background      : transparent url(images/hautkat003005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 473.25pt;
+	top             : 162.00pt;
+	width           : 195.00pt;
+	height          : 142.50pt;
+	}
+span#e4             { /* images/hautkat003004.jpg */
+	background      : transparent url(images/hautkat003004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 314.25pt;
+	width           : 213.00pt;
+	height          : 131.25pt;
+	}
+span#e3             { /* images/hautkat003003.jpg */
+	background      : transparent url(images/hautkat003003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 474.00pt;
+	top             : 311.25pt;
+	width           : 192.75pt;
+	height          : 138.00pt;
+	}
+span#e2             { /* images/hautkat003002.jpg */
+	background      : transparent url(images/hautkat003002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             : 447.75pt;
+	width           : 212.25pt;
+	height          :  95.25pt;
+	}
+span#e1             { /* images/hautkat003001.jpg */
+	background      : transparent url(images/hautkat003001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 474.00pt;
+	top             : 453.00pt;
+	width           : 193.50pt;
+	height          :  90.75pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 675.00pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #001b35;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

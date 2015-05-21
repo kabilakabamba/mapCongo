@@ -1,0 +1,143 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc02               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+div#e14             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  96.75pt;
+	width           : 671.25pt;
+	height          : 446.25pt;
+	}
+div#e13             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  86.25pt;
+	width           : 675.00pt;
+	height          :  26.25pt;
+	}
+h4#e12              { /* Bienvenue sur Haut Katan... */
+	color           : #800000;
+	text-align      : center;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 132.75pt;
+	width           : 633.00pt;
+	height          :  29.25pt;
+	}
+div#e11             { /* Acceuil */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  26.25pt;
+	top             :  86.25pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e10             { /* Site Touristique */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 179.25pt;
+	top             :  93.00pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e9              { /* Images */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 357.00pt;
+	top             :  93.75pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+div#e8              { /* Historique */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 550.50pt;
+	top             :  91.50pt;
+	width           : 117.00pt;
+	height          :  13.50pt;
+	}
+h6#e7               { /* Copyright (destin&cedric... */
+	font            : italic 12pt 'Silent Hell of Cheryl';
+	text-decoration : underline;
+	color           : #ffffff;
+	text-align      : center;
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 558.00pt;
+	width           : 622.50pt;
+	height          :  12.75pt;
+	}
+div#e6              { /* | */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 162.00pt;
+	top             :  88.50pt;
+	width           :   4.50pt;
+	height          :  18.00pt;
+	}
+div#e5              { /* | */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 316.50pt;
+	top             :  87.75pt;
+	width           :   4.50pt;
+	height          :  18.00pt;
+	}
+div#e4              { /* | */
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 501.75pt;
+	top             :  89.25pt;
+	width           :   4.50pt;
+	height          :  18.00pt;
+	}
+span#e3             { /* images/hautkat001002.jpg */
+	background      : transparent url(images/hautkat001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 179.25pt;
+	width           : 644.25pt;
+	height          : 336.75pt;
+	}
+div#e2              { /* CREDRIS */
+	position        : absolute;
+	left            : 288.00pt;
+	top             : 272.25pt;
+	width           : 105.75pt;
+	height          :  16.50pt;
+	}
+div#e1              { /* HAUT KATANGA\ */
+	background      : transparent url(images/hautkat001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 117.00pt;
+	top             :  15.00pt;
+	width           : 435.75pt;
+	height          :  57.75pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 675.00pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #001b35;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
